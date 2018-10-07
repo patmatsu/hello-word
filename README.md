@@ -1,2 +1,2 @@
-# hello-word
+# hello-world
 hello, i must be going
