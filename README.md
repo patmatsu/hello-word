@@ -1,2 +1,2 @@
 # hello-word
-hello, i must be oing
+hello, i must be going
